@@ -1,0 +1,22 @@
+{
+  "name": "ADC Acoperisuri de Calitate",
+  "short_name": "ADC Acoperisuri",
+  "description": "Acoperisuri noi, ferestre de mansarda, izolatii si tinichigerie in Constanta, Bucuresti si Ilfov.",
+  "icons": [
+    {
+      "src": "/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#0D0B0A",
+  "background_color": "#0D0B0A",
+  "display": "standalone",
+  "start_url": "/",
+  "lang": "ro"
+}
